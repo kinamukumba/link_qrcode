@@ -1,30 +1,47 @@
-# 💥 Gerador de QR Code
+ink_qrcode — Gerador de QR Code
 
-Converte em segundos seu texto em um QR Code que pode ser baixado.
-Desenvolvido em JavaScript, utilizando a API de QR Code da [goqr.me](http://goqr.me/api/), HTML e **Sass**, para os estilos da aplicação.
+Transforme qualquer texto ou link em um QR Code em segundos, com opção de download.
+Desenvolvido em JavaScript, utilizando biblioteca/API de QR Code, além de HTML e CSS/Sass para os estilos da aplicação.
 
-## 🧐 Onde visualizar o projeto?
+🧐 Onde visualizar o projeto?
 
-Acesse: https://lucas-andre.github.io/qrcode
+Acesse: 
 
-### Como usar?
-- Escreva seu texto (URL, email, telefone)
-- Clique em "gerar QRcode"
-- Para a apagar clique em "resetar"
+📘 Como usar?
 
-### ✅ Proximas atualizações
-> Botão para baixar a imagem gerada
+Digite seu texto (URL, e-mail, telefone, etc.)
 
+Clique em "Gerar QR Code"
 
+Clique em "Baixar" para salvar a imagem
 
-## 📂 Instalação local 
-Baixe os arquivos compactados em .zip diretamente do repositório.
+Use "Resetar" para limpar o conteúdo
 
-**Por linha de comando.**
-Abra o Git Bash e cole: `git clone https://github.com/lucas-andre/qrcode.git`
+✅ Próximas atualizações
 
+Customização de cores do QR Code
 
-## 📃 Licença 
+Alterar tamanho do QR Code
 
-[Mit](https://choosealicense.com/licenses/mit/)
-"# link_qrcode" 
+Histórico de códigos gerados
+
+Modo escuro (Dark Mode)
+
+📂 Instalação local
+
+Baixe os arquivos compactados em .zip diretamente do repositório
+ou clone via linha de comando:
+
+git clone https://github.com/kinamukumba/link_qrcode.git
+
+📃 Licença
+
+MIT
+
+Se quiser, posso:
+✔️ adicionar badges (shields)
+✔️ criar a estrutura dos arquivos
+✔️ gerar o HTML/CSS/JS do projeto
+✔️ criar um logo simples para o README
+
+Só pedir!
