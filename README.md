@@ -5,7 +5,7 @@ Desenvolvido em JavaScript, utilizando biblioteca/API de QR Code, além de HTML 
 
 🧐 Onde visualizar o projeto?
 
-Acesse: 
+Acesse: https://link-qrcode.vercel.app/
 
 📘 Como usar?
 
@@ -45,3 +45,4 @@ Se quiser, posso:
 ✔️ criar um logo simples para o README
 
 Só pedir!
+
